@@ -10,15 +10,15 @@ import NamesHelper from './components/NamesHelper';
 import SubscribeState from './components/SubscribeState';
 
 function App() {
-  const arr = [1,2,34,0,32,3];
+  const arr = [1, 2, 34, 0, 32, 3];
   return (
     <div className="App">
       {/* <NamesHelper/>
       <SubscribeState/>
       <EventBind uni="CU"/> */}
       {/* <UseState/> */}
-      <UseRef/>
-      <A/>
+      <UseRef />
+      <A />
       {/* <B/> */}
       {/* <KeysList arr = {arr}/> */}
     </div>

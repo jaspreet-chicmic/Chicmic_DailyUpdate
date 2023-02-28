@@ -30,7 +30,7 @@ root.render(<App />);
 // setInterval(tick, 1000);
 
 // tick();
-//timer project
+// timer project
 // function inputTimer()
 // {
 //   return (
@@ -65,8 +65,6 @@ root.render(<App />);
 //   root.render(<Clock date={new Date()}/>);
 // }
 
-
-
 // const root = ReactDOM.createRoot(document.getElementById('root'));
 
 // tick();
@@ -84,7 +82,7 @@ root.render(<App />);
 //     root.render(element);
 //   }
 // setInterval(Clock, 1000);
-      
+
 // const root = ReactDOM.createRoot(document.getElementById('root'));
 // root.render(
 //   <>
@@ -94,17 +92,14 @@ root.render(<App />);
 //   </>
 // );
 
-
 // export default Clock;
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 
-
-
 // const root = ReactDOM.createRoot(document.getElementById('root'));
-  
+
 // function Clock(props) {
 //   const element = (
 //     <div>
