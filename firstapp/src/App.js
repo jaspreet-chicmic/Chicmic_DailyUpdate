@@ -17,7 +17,7 @@ function App() {
       <SubscribeState/>
       <EventBind uni="CU"/> */}
       {/* <UseState/> */}
-      <UseRef />
+      {/* <UseRef /> */}
       <A />
       {/* <B/> */}
       {/* <KeysList arr = {arr}/> */}
